@@ -1,0 +1,121 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/transport/setup-jss.js",
+      "hash": "w8lJ//TdHP/3f09R3NOKQQ=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/content/theme.ts",
+      "hash": "H0IBOsk6BuoF0P84QKZVVg=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/selection.js",
+      "hash": "4eJHqU5C2Zb5yS1msr6d5Q=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/same-line-length.js",
+      "hash": "/P+Xt9G1aeEpSL0LvQHuoQ=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-hint/index.js",
+      "hash": "iVeJrp8DwZqvgoOPE5HMXA=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-ref/index.js",
+      "hash": "CEI1n8tWTcHuJcg4+HqDtw=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/smart-copy.js",
+      "hash": "1Fh9YXGDRnlqk5ZPInBNGQ=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/heading/copy-headings.js",
+      "hash": "flHoBtcZvR08YxyNoiDbEA=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/contentnav/highlight.js",
+      "hash": "lOc/8WbZr1MjVFz/7XUtUQ=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/transport/deferred-iframe.js",
+      "hash": "iQUNg0YhKRSlNa03QydlvA=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js",
+      "hash": "4ufuYO4WRzi/OR56YQOlZQ=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js",
+      "hash": "dA//jeyvNhFCwMjecHQU1Q=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
+      "hash": "niTA3+Bymn+6elWINzzyhw=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js",
+      "hash": "CHVPkak9CgNbNnuILAwudg=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/footnote/gather-footnotes.js",
+      "hash": "sVdqFnLrO3Et4QtpEg1pEg=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "xhgZZQlqKz84WhmqjkoWFw=="
+    },
+    {
+      "name": "GithubSearch",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/misc/github/search.js",
+      "hash": "mDQGI6kEtLchHPQ2wmnVIA=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js",
+      "hash": "U2LBVVCk2CfkyeCD2GAUHw=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
+      "hash": "QRe5M1Jk/5izeL/UWHSWdw=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
+      "hash": "ntcCTG6SiRV8+FbIRFRDFw=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
+      "hash": "zjO29NyDUT+TSZqVnwD21w=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
+      "hash": "dspjRTFzlr7hG4mTkGP5NQ=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "C:/Users/Administrador/Documents/Universidad/ComputacionVisual/vc/.codedoc/node_modules/@codedoc/core/dist/es5/transport/renderer.js",
+    "hash": "V9hREH1jj7mfqJCDf9MoPQ=="
+  }
+}

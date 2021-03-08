@@ -1,0 +1,24 @@
+
+# Serving ...
+# Fetching project configuration ...
+[INFO] 12:14:00 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 3.9.9)
+# Serving docs on http://localhost:3000/vc
+# building ........ docs\md\index.md
+# built:: ......... index.html
+# building ........ docs\md\docs\cheat-sheet.md
+# built:: ......... docs\cheat-sheet.html
+# building ........ docs\md\docs\code-features.md
+# built:: ......... docs\code-features.html
+# building ........ docs\assets\codedoc-styles.css
+# built:: ......... docs\assets\codedoc-styles.css
+# building ........ docs\assets\codedoc-bundle.js
+# built:: ......... docs\assets\codedoc-bundle.js
+# running after build hooks ...
+# Documents built!
+# Changes in docs\md\index.md queueing ...
+# Rebuilding due to changes ...
+# rebuilding ........ docs\md\index.md
+# rebuilt:: ......... index.html
+# running after build hooks ...
+# Documents Rebuilt!
+¨Desea terminar el trabajo por lotes (S/N)? ¨Desea terminar el trabajo por lotes (S/N)? 
